@@ -1,0 +1,1485 @@
+{"data":[
+
+{
+	"_id" : ObjectId("642bd6d8784cde1e31ce2be4"),
+	"createdUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"activityId" : "GAM-763-HS",
+	"name" : "Jjsd",
+	"baseLanguageCode" : "bs-ba",
+	"languageList" : [
+		{
+			"activityName" : "New",
+			"languageId" : "11",
+			"name" : "Bosnian",
+			"code" : "bs-ba",
+			"description" : "<p>Test</p>",
+			"objectives" : "<p>hd</p>",
+			"guidelines" : "<p>dsb</p>",
+			"documents" : [
+				{
+					"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/APRIL/4/2023-04-04T07:49:08.967608_image2-3.png",
+					"fileName" : "2023-04-04T07:49:08.964509_image2-3.png",
+					"fileType" : "png",
+					"message" : "Material uploaded successfully"
+				}
+			]
+		}
+	],
+	"status" : "Draft",
+	"createdTime" : ISODate("2023-04-04T13:20:48.236+05:30"),
+	"modifiedTime" : ISODate("2023-04-04T13:20:48.236+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"ltiFlag" : "1",
+	"gtId" : 119,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("642bd558784cde1e31ce2be2"),
+	"createdUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"activityId" : "GAM-7637-GH",
+	"name" : "Test",
+	"baseLanguageCode" : "bs-ba",
+	"languageList" : [
+		{
+			"activityName" : "Test",
+			"languageId" : "11",
+			"name" : "Bosnian",
+			"code" : "bs-ba",
+			"description" : "<p>Ngsg</p>",
+			"objectives" : "<p>New</p>",
+			"guidelines" : "<p>New</p>",
+			"documents" : [
+				{
+					"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/APRIL/4/2023-04-04T07:44:15.893693_image2-3.png",
+					"fileName" : "2023-04-04T07:44:15.890514_image2-3.png",
+					"fileType" : "png",
+					"message" : "Material uploaded successfully"
+				}
+			]
+		}
+	],
+	"status" : "Published",
+	"createdTime" : ISODate("2023-04-04T13:14:24.539+05:30"),
+	"modifiedTime" : ISODate("2023-04-04T13:14:30.660+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"ltiFlag" : "2",
+	"gtId" : 118,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("642bb0a6784cde1e31ce2bde"),
+	"createdUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"activityId" : "GAM-66353-KR",
+	"name" : "전사",
+	"baseLanguageCode" : "ko-kr",
+	"languageList" : [
+		{
+			"activityName" : "전사",
+			"languageId" : "62",
+			"name" : "Korean (KR)",
+			"code" : "ko-kr",
+			"description" : "<p>니드 포 스피드</p>",
+			"objectives" : "<p>천천히 그리고 착실히</p>",
+			"guidelines" : "<p>게임에서 승리</p>",
+			"documents" : [
+				{
+					"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/APRIL/4/2023-04-04T05:07:15.220748_image2-3.png",
+					"fileName" : "2023-04-04T05:07:15.217448_image2-3.png",
+					"fileType" : "png",
+					"message" : "Material uploaded successfully"
+				}
+			]
+		}
+	],
+	"status" : "Published",
+	"createdTime" : ISODate("2023-04-04T10:37:50.098+05:30"),
+	"modifiedTime" : ISODate("2023-04-04T10:37:57.187+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"ltiFlag" : "2",
+	"gtId" : 117,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("642ab759784cde1e31ce2bdb"),
+	"createdUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"activityId" : "GAM-77377-YS",
+	"name" : "Test",
+	"baseLanguageCode" : "ko-kr",
+	"languageList" : [
+		{
+			"activityName" : "Test",
+			"languageId" : "62",
+			"name" : "Korean (KR)",
+			"code" : "ko-kr",
+			"description" : "<p>New</p>",
+			"objectives" : "<p>Nye</p><p><br></p>",
+			"guidelines" : "<p>Vgs</p>",
+			"documents" : [
+				{
+					"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/APRIL/3/2023-04-03T11:23:39.033309_image2-3.png",
+					"fileName" : "2023-04-03T11:23:39.029635_image2-3.png",
+					"fileType" : "png",
+					"message" : "Material uploaded successfully"
+				}
+			]
+		}
+	],
+	"status" : "Published",
+	"createdTime" : ISODate("2023-04-03T16:54:09.604+05:30"),
+	"modifiedTime" : ISODate("2023-04-03T16:54:15.995+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"ltiFlag" : "2",
+	"gtId" : 116,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+
+{
+	"_id" : ObjectId("642a8cf336f62a5c6b6b6175"),
+	"createdUser" : DBRef("user", ObjectId("62b941dd88176c703eb98b3d")),
+	"activityId" : "GAM-KR000004",
+	"name" : "GAM • The Mercedes-Benz Way • Video Feed KR",
+	"language" : {
+		"languageId" : "62",
+		"name" : "Korean (KR)",
+		"code" : "ko-kr"
+	},
+	"status" : "Published",
+	"description" : "<p>고객 응대 직원을 위한 &#34;The Mercedes-Benz Way&#34; Video Feed:</p><ul><li>Video Feed를 통해 고객 응대 경험과 모범 사례를 &#34;The Mercedes-Benz Way&#34;에 공유하고자 합니다.</li><li>&#34;The Mercedes-Benz Way&#34; 고객 응대 원칙을 활용하여 롤플레이를 실시하고 촬영된 영상을 GTLS에 업로드하십시오.</li><li>동료의 영상을 확인하고 피드백을 제공하십시오.</li><li>트레이너와 동료의 피드백을 나의 업무에 적용하십시오.</li><li>Impulses 단계에서는 정기적으로 학습 담당자(Learning Coordinator)가 새로운 정보를 제공할 것입니다. 전달 받은 정보를 팀 내에서 공유하고 적용하십시오.</li></ul><p>&#34;The Mercedes-Benz Way&#34;에 적극적인 참여를 기대합니다!</p>",
+	"objectives" : "<ul><li>&#34;The Mercedes-Benz Way&#34;의 구체적인 행동을 일상 업무에 적용할 수 있습니다.</li><li>동료의 영상에서 &#34;The Mercedes-Benz Way&#34; 행동 요령을 관찰하고 개선점을 알 수 있습니다.</li><li>럭셔리 브랜드가 되기 위한 Mercedes-Benz전략의 일환으로 &#34;The Mercedes-Benz Way&#34;의 배경과 중요성을 확인할 수 있습니다.</li><li>Golden Rule, 고객 응대 원칙 및 행동 요령의 중요성을 확인할 수 있습니다.</li></ul><p><br /></p>",
+	"guidelines" : "<p>안내 드리는 가이드 내용 참고 부탁드립니다.</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/APRIL/3/2023-04-03T08:20:36.306396_d.jpg",
+			"fileName" : "2023-04-03T08:20:36.305825_d.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2023-04-03T13:53:15.420+05:30"),
+	"modifiedTime" : ISODate("2023-04-03T13:53:24.690+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("62b941dd88176c703eb98b3d")),
+	"ltiFlag" : "2",
+	"gtId" : 115,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("642a6cec36f62a5c6b6b6171"),
+	"createdUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"activityId" : "GAM-663763",
+	"name" : "전사",
+	"language" : {
+		"languageId" : "62",
+		"name" : "Korean (KR)",
+		"code" : "ko-kr"
+	},
+	"status" : "Published",
+	"description" : "<p>니드 포 스피드</p>",
+	"objectives" : "<p>슬로우 앤 스테디</p>",
+	"guidelines" : "<p>더 많은 것을 얻으십시오</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/APRIL/3/2023-04-03T06:05:42.648800_image2-3.png",
+			"fileName" : "2023-04-03T06:05:42.646904_image2-3.png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2023-04-03T11:36:36.584+05:30"),
+	"modifiedTime" : ISODate("2023-04-03T11:36:44.920+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("642a699636f62a5c6b6b6170")),
+	"ltiFlag" : "2",
+	"gtId" : 113,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+{
+	"_id" : ObjectId("6426846a278e4c00b3f18ff0"),
+	"createdUser" : DBRef("user", ObjectId("642660b5278e4c00b3f18fef")),
+	"activityId" : "GAM-IN2380928302",
+	"name" : "videoccoach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>TEST</p>",
+	"objectives" : "<p>TEST</p>",
+	"guidelines" : "<p>TEST</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/MARCH/31/2023-03-31T06:56:58.771322_pic.jpg",
+			"fileName" : "2023-03-31T06:56:58.770863_pic.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2023-03-31T12:27:45.973+05:30"),
+	"modifiedTime" : ISODate("2023-03-31T12:27:54.212+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("642660b5278e4c00b3f18fef")),
+	"ltiFlag" : "2",
+	"gtId" : 112,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("640ecc56278e4c00b3f18d87"),
+	"createdUser" : DBRef("user", ObjectId("61b2d3ed3e3fab35cf66e1e0")),
+	"activityId" : "GAM-IN6789",
+	"name" : "videocoach1",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>TEST</p>",
+	"objectives" : "<p>test</p>",
+	"guidelines" : "<p>test</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/MARCH/13/2023-03-13T07:08:51.035039_test file.txt",
+			"fileName" : "2023-03-13T07:08:51.034877_test file.txt",
+			"fileType" : "txt",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2023-03-13T12:40:14.353+05:30"),
+	"modifiedTime" : ISODate("2023-03-13T12:40:23.426+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61b2d3ed3e3fab35cf66e1e0")),
+	"ltiFlag" : "2",
+	"gtId" : 111,
+	"sessionsCount" : 2,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("640eb830278e4c00b3f18d86"),
+	"createdUser" : DBRef("user", ObjectId("62c8120f88176c703eb98d45")),
+	"activityId" : "GAM-554664",
+	"name" : "Test",
+	"language" : {
+		"languageId" : "11",
+		"name" : "Bosnian",
+		"code" : "bs-ba"
+	},
+	"status" : "Published",
+	"description" : "<p>Test</p>",
+	"objectives" : "<p>Test</p>",
+	"guidelines" : "<p>Test</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/MARCH/13/2023-03-13T05:42:22.751447_gleonyx.jpg",
+			"fileName" : "2023-03-13T05:42:22.750693_gleonyx.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2023-03-13T11:14:16.770+05:30"),
+	"modifiedTime" : ISODate("2023-03-13T11:15:34.821+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("62c8120f88176c703eb98d45")),
+	"ltiFlag" : "2",
+	"gtId" : 110,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("63ef2aad278e4c00b3f18acb"),
+	"createdUser" : DBRef("user", ObjectId("623195bd89ee912b13aa63cd")),
+	"activityId" : "GAM-IN17022023",
+	"name" : "VideoFeed-Test",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Test</p>",
+	"objectives" : "<p>test</p>",
+	"guidelines" : "<p>test</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/FEBRUARY/17/2023-02-17T07:19:45.791216_MicrosoftTeams-image (1).png",
+			"fileName" : "2023-02-17T07:19:45.789671_MicrosoftTeams-image (1).png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2023-02-17T12:50:13.283+05:30"),
+	"modifiedTime" : ISODate("2023-02-17T12:50:18.846+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("623195bd89ee912b13aa63cd")),
+	"ltiFlag" : "2",
+	"gtId" : 109,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("63ecb2a9278e4c00b3f18ac5"),
+	"createdUser" : DBRef("user", ObjectId("63ecb229278e4c00b3f18ac4")),
+	"activityId" : "GAM-7894569658520",
+	"name" : "Video feed Demo",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Test Demo</p>",
+	"objectives" : "<p>Test</p>",
+	"guidelines" : "<p>Test</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/FEBRUARY/15/2023-02-15T10:23:21.158110_mixkit-people-pouring-a-warm-drink-around-a-campfire-513.mp4",
+			"fileName" : "2023-02-15T10:23:21.025605_mixkit-people-pouring-a-warm-drink-around-a-campfire-513.mp4",
+			"fileType" : "mp4",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2023-02-15T15:53:37.900+05:30"),
+	"modifiedTime" : ISODate("2023-02-15T15:53:51.871+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("63ecb229278e4c00b3f18ac4")),
+	"ltiFlag" : "2",
+	"gtId" : 108,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("63e4618e278e4c00b3f18ab8"),
+	"createdUser" : DBRef("user", ObjectId("622589a189ee912b13aa6366")),
+	"activityId" : "GAM-TH000001",
+	"name" : "Trainer Supervision - Thai Market 2023",
+	"language" : {
+		"languageId" : "118",
+		"name" : "Thai",
+		"code" : "th-th"
+	},
+	"status" : "Draft",
+	"description" : "<p>The Trainer Supervisions are included:</p><ol><li>F2F training session of the trainer</li><li>Virtual Classroom training session of the trainer</li></ol>",
+	"objectives" : "<p>Trainer Supervision Objectives:</p>",
+	"guidelines" : "<p>Rules of Trainer Supervision:</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/FEBRUARY/9/2023-02-09T02:58:40.274018_C-Trainer Re-Certification_Roadmap.pdf",
+			"fileName" : "2023-02-09T02:58:40.272693_C-Trainer Re-Certification_Roadmap.pdf",
+			"fileType" : "pdf",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2023-02-09T08:29:26.178+05:30"),
+	"modifiedTime" : ISODate("2023-02-09T08:29:26.178+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("622589a189ee912b13aa6366")),
+	"ltiFlag" : "1",
+	"gtId" : 107,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+{
+	"_id" : ObjectId("63c6188d0f28662803f2e9c9"),
+	"createdUser" : DBRef("user", ObjectId("62569316fe01470536105e80")),
+	"activityId" : "GAM-JP000001",
+	"name" : "GAM ⦁ Test Activity JP  ⦁ Video Coach",
+	"language" : {
+		"languageId" : "54",
+		"name" : "Japanese",
+		"code" : "ja-jp"
+	},
+	"status" : "Published",
+	"description" : "<p>This is used for testing purpose only to implement Video Feed to Japanese market.</p>",
+	"objectives" : "<p>After completed this the learner will be able to...</p><ul><li>know how Video Feed works</li><li>adjust the Terms &amp; Conditions to the market</li></ul>",
+	"guidelines" : "<p>Please follow the guideline</p><ul><li>Video clip duration should be in 10 min.</li><li>Video clip size should no larger than 100 MB.</li></ul>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2023/JANUARY/17/2023-01-17T03:39:45.918414_20220210 Video Coach - User manual.pdf",
+			"fileName" : "2023-01-17T03:39:45.915508_20220210 Video Coach - User manual.pdf",
+			"fileType" : "pdf",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2023-01-17T09:09:57.509+05:30"),
+	"modifiedTime" : ISODate("2023-01-17T11:09:49.684+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("62569316fe01470536105e80")),
+	"ltiFlag" : "2",
+	"gtId" : 106,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("636cc61d0f28662803f2e70e"),
+	"createdUser" : DBRef("user", ObjectId("622e13cc89ee912b13aa63bd")),
+	"activityId" : "GAM-FR001616",
+	"name" : "GAM • The Mercedes-Benz Way • Video Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Draft",
+	"description" : "<p>1</p>",
+	"objectives" : "<p>1</p>",
+	"guidelines" : "<p>1</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/NOVEMBER/10/2022-11-10T09:35:21.715044__Titelfolie.png",
+			"fileName" : "2022-11-10T09:35:21.708860__Titelfolie.png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-11-10T15:06:29.926+05:30"),
+	"modifiedTime" : ISODate("2022-11-10T15:06:29.926+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("622e13cc89ee912b13aa63bd")),
+	"ltiFlag" : "1",
+	"gtId" : 104,
+	"sessionsCount" : 0,
+	"sourceId" : "BMBS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("636102d60f28662803f2e709"),
+	"createdUser" : DBRef("user", ObjectId("6315aedf16b1eb65e1fbddb7")),
+	"activityId" : "GAM-BR0001",
+	"name" : "Walk around",
+	"language" : {
+		"languageId" : "91",
+		"name" : "Portuguese (BR)",
+		"code" : "pt-br"
+	},
+	"status" : "Published",
+	"description" : "<p>Video Coach criado para ajudar os participantes do treinamento C-Sales à criar videos de apresentação de produto guiado, baseado no princípio do walk around. </p><p><br /></p>",
+	"objectives" : "<p>o participante estará apto à: </p><p><br /></p><ul><li>treinar a apresentação de produto</li><li>receber comentários de possíveis melhorias</li><li>decidir o que pode ser mudado com base nas recomendações de melhorias</li><li>desenvolver a habilidade de criar conteúdo de apresentação virtual de veículos</li></ul>",
+	"guidelines" : "<p>O participante deverá criar e postar um vídeo com as seguintes regras: </p><p><br /></p><ul><li>apresentar um produto comercializado no concessionário, independente do modelo. </li><li>criar uma apresentação seguindo os passos do walk around anexo à este video coach. </li><li>apresentar 2 ou 3 características em cada um dos 7 passos. No total, entre 14 e 21 características. </li><li>Duração do vídeo: pelo menos 10 minutos de apresentação. </li><li>Use a criatividade! </li><li>Lembrando que os vídeos devem ser pensados sempre em caráter de apresentação profissional do produto. </li></ul>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/NOVEMBER/1/2022-11-01T11:23:56.359479_walk around.pdf",
+			"fileName" : "2022-11-01T11:23:56.358738_walk around.pdf",
+			"fileType" : "pdf",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-11-01T16:58:22.675+05:30"),
+	"modifiedTime" : ISODate("2022-11-01T16:59:03.761+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("6315aedf16b1eb65e1fbddb7")),
+	"ltiFlag" : "2",
+	"gtId" : 103,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("635a164d0f28662803f2e706"),
+	"createdUser" : DBRef("user", ObjectId("63158b2316b1eb65e1fbdd9c")),
+	"activityId" : "GAM-SEA000001",
+	"name" : "GAM ⦁ Certified Trainer ⦁ Supervision Face-to-Face Trainer ⦁ Video Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Recording sequences of a face-to-face training session and uploading them to the Video Coach</p><p><br /></p><p><strong>Task</strong></p><p>Now it&#39;s your turn. The goal is to record training sequences from your face-to-face training sessions. You will create a maximum one-hour video or several sequences totaling 1 hour. We want to see you in &#34;action.&#34; Remember the &#34;training diamond&#34; for guidance and use the training concept.</p><p><br /></p><p>Please make the following clear to yourself and your mentor:</p><p>·      What is the learning objective of my sequence?</p><p>·      What content do I want to convey?</p><p>·      What methods do I use?</p>",
+	"objectives" : "<p><strong style=\"color:rgb( 230 , 230 , 230 )\">The learner can…</strong></p><p><span style=\"color:rgb( 230 , 230 , 230 )\">• perform and record a learning sequence Face-to-Face</span></p><p><span style=\"color:rgb( 230 , 230 , 230 )\">• edit the learning sequence and prepare it for entry into GTLS.</span></p><p><span style=\"color:rgb( 230 , 230 , 230 )\">• upload the learning sequence in the GTLS.</span></p><p><span style=\"color:rgb( 230 , 230 , 230 )\">• receive feedback from the mentor and the training manager and derive their own development measures from it.</span></p><p><span style=\"color:rgb( 230 , 230 , 230 )\">• derive measures for his individual development plan.</span></p>",
+	"guidelines" : "<ul><li>Describe your training overview and at least covering wide angle of your classroom.</li><li>Please emphasis what learning phase you would like to share to mentor</li></ul><p><br /></p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/OCTOBER/27/2022-10-27T05:24:49.510818_We are Mercedes-Benz MSTEAMS EN.png",
+			"fileName" : "2022-10-27T05:24:49.505964_We are Mercedes-Benz MSTEAMS EN.png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-10-27T10:55:33.236+05:30"),
+	"modifiedTime" : ISODate("2022-10-27T10:55:46.345+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("63158b2316b1eb65e1fbdd9c")),
+	"ltiFlag" : "2",
+	"gtId" : 102,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("6347bd2d16b1eb65e1fbe387"),
+	"createdUser" : DBRef("user", ObjectId("61b2e2be3e3fab35cf66e1e4")),
+	"activityId" : "GAM-5656",
+	"name" : "TestSaveGTVCActivity",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Test Description</p>",
+	"objectives" : "<p>Test Objective</p>",
+	"guidelines" : "<p>Test Guideline</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/OCTOBER/13/2022-10-13T07:23:16.007374_five.jpg",
+			"fileName" : "2022-10-13T07:23:16.005528_five.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-10-13T12:54:29.582+05:30"),
+	"modifiedTime" : ISODate("2022-10-13T12:54:41.752+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61b2e2be3e3fab35cf66e1e4")),
+	"ltiFlag" : "2",
+	"gtId" : 101,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("632acb4a16b1eb65e1fbe0f3"),
+	"createdUser" : DBRef("user", ObjectId("6329addb16b1eb65e1fbe0ee")),
+	"activityId" : "GAM-DE000006",
+	"name" : "„Aufwärmübung zum Thema Verkaufen“",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<ul><li>Suchen Sie sich ein Produkt (z.B. Mercedes-Benz Original-Teil, Mercedes-Benz Original-Zubehör, Mercedes-Benz Original-Räder, Collectionsartikel) sowie 1-2 Kaufmotive aus. </li><li>Formulieren Sie eine emotionale Nutzenargumentation. Nutzen Sie dabei kraftvolle Worte, die einen WOW-Effekt bei Ihren Kund*innen auslösen könnten.</li><li>Drehen Sie ein 1-2minütiges Video, in dem Sie als Verkäufer*in den Kund*innen mit Ihrer bildhaften Argumentation überzeugen wollen. </li><li>Laden Sie das Video hier in die Plattform.</li><li>Geben Sie wertschätzendes Feedback und unterstützen Sie damit Ihre Kolleg*innen. </li><li>Profitieren Sie vom Trainer*in-Feedback und dem Feedback Ihrer Kolleg*innen.</li></ul><p> </p><p>Viel Spaß!</p>",
+	"objectives" : "<p>Sie können...</p><ul><li>konkrete Methoden aus der Basisqualifizierung zum Beraten/Verkaufen anwenden.</li><li>gezeigtes Verhalten beobachten und reflektieren.</li></ul>",
+	"guidelines" : "<p>Bitte erstellen  Sie Ihr Video bis spätestens 3 Tage vor dem Termin Ihres Präsenztrainings, damit Ihre Kolleg*innen Ihnen Feedback geben können. Denken Sie dabei bitte an die Feedbackregeln!</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/SEPTEMBER/21/2022-09-21T08:20:16.605738_Verkaufen.jpg",
+			"fileName" : "2022-09-21T08:20:16.603301_Verkaufen.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-09-21T13:58:58.166+05:30"),
+	"modifiedTime" : ISODate("2022-09-21T13:59:25.223+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("6329addb16b1eb65e1fbe0ee")),
+	"ltiFlag" : "2",
+	"gtId" : 100,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("631efb2a16b1eb65e1fbdff6"),
+	"createdUser" : DBRef("user", ObjectId("621f9c1889ee912b13aa6362")),
+	"activityId" : "GAM-IN0002",
+	"name" : "EQC Tire replacement procedure",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Practical video</p>",
+	"objectives" : "<p>To replace tire following safety precaution avoiding damage to the battery</p>",
+	"guidelines" : "<p>practice </p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/SEPTEMBER/12/2022-09-12T09:24:51.407069_Annexure 1 Video tutorial on jack mounting points and changing tyre on EQC.mp4",
+			"fileName" : "2022-09-12T09:24:51.367983_Annexure 1 Video tutorial on jack mounting points and changing tyre on EQC.mp4",
+			"fileType" : "mp4",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-09-12T14:56:02.364+05:30"),
+	"modifiedTime" : ISODate("2022-09-12T14:56:12.675+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("621f9c1889ee912b13aa6362")),
+	"ltiFlag" : "2",
+	"gtId" : 98,
+	"sessionsCount" : 2,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("631ec12516b1eb65e1fbdfe7"),
+	"createdUser" : DBRef("user", ObjectId("621f9c1889ee912b13aa6362")),
+	"activityId" : "GAM-IN0001",
+	"name" : "Online session on Awareness in High Voltage systems",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>To be used for all trainings involving EQ</p>",
+	"objectives" : "<p>On Completion of the VC you will be able to .........</p><ul><li>Explain the need of HV in automobiles</li><li>HV Voltage ranges</li><li>Different type of Hazards while working with HV systems</li><li>Safety precautions to be implemented while working on HV systems</li><li>Name and locate different HV components </li><li>Name and Explain different type of Hybrid vehicles</li><li>7 Measures of safety implemented in MB cars </li></ul><p><br /></p>",
+	"guidelines" : "<p>To be used for all trainings involving EQ</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/SEPTEMBER/12/2022-09-12T05:11:09.509272_VC on awareness on High Voltage systems and EQC Market Launch-20200714 0438-1.mp4",
+			"fileName" : "2022-09-12T05:11:08.528260_VC on awareness on High Voltage systems and EQC Market Launch-20200714 0438-1.mp4",
+			"fileType" : "mp4",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-09-12T10:48:29.030+05:30"),
+	"modifiedTime" : ISODate("2022-09-12T12:30:59.293+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("621f9c1889ee912b13aa6362")),
+	"ltiFlag" : "2",
+	"gtId" : 95,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("630e040c16b1eb65e1fbdc3f"),
+	"createdUser" : DBRef("user", ObjectId("6228d25e89ee912b13aa636d")),
+	"activityId" : "GAM-IT000003",
+	"name" : "Product Expert Modulo 1",
+	"language" : {
+		"languageId" : "52",
+		"name" : "Italian",
+		"code" : "it-it"
+	},
+	"status" : "Published",
+	"description" : "<p>Spiegazione del prodotto</p>",
+	"objectives" : "<p>Imparare a descrivere le caratteristiche del prodotto</p>",
+	"guidelines" : "<p>Hai di fronte un Cliente che ha fretta. Prova a spiegargli un accessorio che ritieni importante in meno di 5 minuti!</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/30/2022-08-30T12:34:10.182135_IMG_3489.mp4",
+			"fileName" : "2022-08-30T12:34:10.166928_IMG_3489.mp4",
+			"fileType" : "mp4",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-30T18:05:24.440+05:30"),
+	"modifiedTime" : ISODate("2022-08-30T18:05:38.247+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("6228d25e89ee912b13aa636d")),
+	"ltiFlag" : "2",
+	"gtId" : 93,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("630dcca416b1eb65e1fbdc1a"),
+	"createdUser" : DBRef("user", ObjectId("6228d25e89ee912b13aa636d")),
+	"activityId" : "GAM-IT000002",
+	"name" : "Product Expert Modulo 1",
+	"language" : {
+		"languageId" : "52",
+		"name" : "Italian",
+		"code" : "it-it"
+	},
+	"status" : "Published",
+	"description" : "<p>Spiegazione di un accessorio in 5 minuti</p>",
+	"objectives" : "<p>Migliorare la capacità espositiva</p>",
+	"guidelines" : "<p>Immagina che il cliente abbia fretta e che tu debba spiegargli un accessorio in non più di 5 minuti</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/30/2022-08-30T08:37:00.806113_IMG_3489.mp4",
+			"fileName" : "2022-08-30T08:37:00.791211_IMG_3489.mp4",
+			"fileType" : "mp4",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-30T14:09:00.832+05:30"),
+	"modifiedTime" : ISODate("2022-08-30T14:09:18.343+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("6228d25e89ee912b13aa636d")),
+	"ltiFlag" : "2",
+	"gtId" : 92,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62f3777c88176c703eb9997b"),
+	"createdUser" : DBRef("user", ObjectId("623195bd89ee912b13aa63cd")),
+	"activityId" : "GAM-373934",
+	"name" : "test",
+	"language" : {
+		"languageId" : "320",
+		"name" : "Chinese (Simpl)",
+		"code" : "zh-hans"
+	},
+	"status" : "Published",
+	"description" : "<p>test</p>",
+	"objectives" : "<p>test</p>",
+	"guidelines" : "<p>test</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/10/2022-08-10T09:16:39.984617_PP_MB_GT_GCEC_Motiv_02_Launch_sRGB.jpg",
+			"fileName" : "2022-08-10T09:16:39.730815_PP_MB_GT_GCEC_Motiv_02_Launch_sRGB.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-10T14:46:44.254+05:30"),
+	"modifiedTime" : ISODate("2022-08-10T14:46:53.577+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("623195bd89ee912b13aa63cd")),
+	"ltiFlag" : "2",
+	"gtId" : 90,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62f1fbf188176c703eb99957"),
+	"createdUser" : DBRef("user", ObjectId("62d1264e88176c703eb9914d")),
+	"activityId" : "GAM-123456789",
+	"name" : "test123",
+	"language" : {
+		"languageId" : "320",
+		"name" : "Chinese (Simpl)",
+		"code" : "zh-hans"
+	},
+	"status" : "Draft",
+	"description" : "<p>test</p>",
+	"objectives" : "<p>123</p>",
+	"guidelines" : "<p>123</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/9/2022-08-09T06:14:28.174847_GCEC.gif",
+			"fileName" : "2022-08-09T06:14:28.170596_GCEC.gif",
+			"fileType" : "gif",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-09T11:47:21.073+05:30"),
+	"modifiedTime" : ISODate("2022-08-09T11:47:21.073+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("62d1264e88176c703eb9914d")),
+	"ltiFlag" : "1",
+	"gtId" : 89,
+	"sessionsCount" : 0,
+	"sourceId" : "BMBS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62eb786888176c703eb99717"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-DE00001652",
+	"name" : "GAM ⦁ Certified Trainer ⦁ Supervision Face-to-Face Trainer ⦁ Video Coach",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p><strong>Aufnahme von Sequenzen eines Face-to-Face Trainings und hochladen in den Video Coach</strong></p><p><strong>Aufgabe</strong></p><p>Jetzt sind Sie an der Reihe. Das Ziel ist es, Trainingssequenzen aus Ihren Face-to-Face Trainings aufzunehmen. Sie werden ein maximal einstündiges Video erstellen oder mehrere Sequenzen von insgesamt 1 Stunde. Wir wollen Sie in „Action“ sehen. Erinnern Sie sich als Orientierung an den „Trainingsdiamanten“ und nutzen Sie das Trainingskonzept.</p><p><br></p><p>Machen Sie sich und Ihrem Mentor bitte Folgendes deutlich:</p><ul><li>Was ist das Lernziel meiner Sequenz?</li><li>Welche Inhalte möchte ich vermitteln?</li><li>Welche Methoden setze ich ein?</li></ul>",
+	"objectives" : "<p><strong>Der Lerner kann…</strong></p><ul><li>eine Lernsequenz Face-to-Face durchführen und aufzeichnen </li><li>die Lernsequenz bearbeiten und zum Bereitstellen im GTLS vorbereiten.</li><li>die Lernsequenz im GTLS hochladen.</li><li>Feedback des Mentors und des Trainingsmanagers erhalten und eigene Entwicklungsmaßnahmen daraus ableiten. </li><li>sich – auf Basis des Feedback – einen individuellen Entwicklungsplan erarbeiten.</li></ul>",
+	"guidelines" : "<p>Bitte beachten Sie die folgenden Beobachtungsschwerpunkte:</p><p><br></p><p><strong>Kameraposition</strong></p><ul><li>Trainer und Medien sichtbar (an \"goldenen Schnitt\" denken)</li><li>\"Ordnung auf der Bühne\": Trainerschreibtisch aufgeräumt und Medien vorbereitet</li><li>Beleuchtung ausreichend und Tonaufnahme verständlich</li></ul><p><br></p><p><strong>Wirkung des Trainers</strong></p><ul><li>Ansprache der Lerner</li><li>Verbale Kommunikation des Trainers</li><li>Nonverbale Kommunikation des Trainers</li><li>Rhetorische Stilmittel bei der Erläuterung</li></ul><p><br></p><p><strong>Teilnehmerorientierung</strong></p><ul><li>Einbindung der Lerner in den Lernprozess</li><li>Anmoderation von Gruppenarbeiten: Klarheit, Transparenz, Deutlichkeit</li></ul><p><br></p><p><strong>Mediengestaltung</strong></p><ul><li>Gestaltung der Flipcharts (Regeln der Visualisierung)</li><li>Gestaltung der virtuellen Medien (MURAL Board): Übersichtlichkeit, Regeln der Visualisierung</li></ul>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/4/2022-08-04T07:41:05.618126_CFM08400.jpg",
+			"fileName" : "2022-08-04T07:41:05.617402_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-04T13:12:32.515+05:30"),
+	"modifiedTime" : ISODate("2022-08-30T12:57:00.958+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 88,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62eb777e88176c703eb99716"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-DE00001651",
+	"name" : "GAM ⦁ Certified Trainer ⦁ Supervision Online Trainer ⦁ Video Coach",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p><strong>Aufgabe</strong></p><p>Jetzt sind Sie an der Reihe. Das Ziel ist es, Trainingssequenzen aus Ihren Online Trainings aufzunehmen. Sie werden ein maximal einstündiges Video erstellen oder mehrere Sequenzen von insgesamt 1 Stunde. Wir wollen Sie in „Action“ sehen. Erinnern Sie sich als Orientierung an den „Trainingsdiamanten“ und nutzen Sie das Trainingskonzept.</p><p>Machen Sie sich und Ihrem Mentor bitte Folgendes deutlich:</p><p>• Was ist das Lernziel meiner Sequenz?</p><p>• Welche Inhalte möchte ich vermitteln?</p><p>• Welche Methoden setze ich ein?</p>",
+	"objectives" : "<p><strong>Der Lerner kann…</strong></p><ul><li>eine digitale/ virtuelle Lernsequenz durchführen und aufzeichnen (Virtual Classroom, Webinar, Online Moderation).</li><li>die digitale/ virtuelle Lernsequenz bearbeiten und zum Bereitstellen im GTLS vorbereiten.</li><li>die digitale/ virtuelle Lernsequenz im GTLS hochladen.</li><li>Feedback des Mentors und des Trainingsmanagers erhalten und eigene Entwicklungsmaßnahmen daraus ableiten .</li><li>sich – auf Basis des Feedback – einen individuellen Entwicklungsplan erarbeiten.</li></ul>",
+	"guidelines" : "<p>Bitte beachten Sie die folgenden Beobachtungsschwerpunkte:</p><p><br></p><p><strong>Kameraposition</strong></p><ul><li>Trainer und Medien sichtbar (an \"goldenen Schnitt\" denken)</li><li>\"Ordnung auf der Bühne\": Trainerschreibtisch aufgeräumt und Medien vorbereitet</li><li>Beleuchtung ausreichend und Tonaufnahme verständlich</li></ul><p><br></p><p><strong>Wirkung des Trainers</strong></p><ul><li>Ansprache der Lerner</li><li>Verbale Kommunikation des Trainers</li><li>Nonverbale Kommunikation des Trainers</li><li>Rhetorische Stilmittel bei der Erläuterung</li></ul><p><br></p><p><strong>Teilnehmerorientierung</strong></p><ul><li>Einbindung der Lerner in den Lernprozess</li><li>Anmoderation von Gruppenarbeiten: Klarheit, Transparenz, Deutlichkeit </li></ul><p><br></p><p><strong>Mediengestaltung</strong></p><ul><li>Gestaltung der Flipcharts (Regeln der Visualisierung)</li><li>Gestaltung der virtuellen Medien (MURAL Board): Übersichtlichkeit, Regeln der Visualisierung</li></ul>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/4/2022-08-04T07:36:32.696112_CFM08400.jpg",
+			"fileName" : "2022-08-04T07:36:32.695418_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-04T13:08:38.341+05:30"),
+	"modifiedTime" : ISODate("2022-08-30T13:03:06.584+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 87,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62eb737588176c703eb9970e"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-DE00001658",
+	"name" : "GAM ⦁ Face-to-Face Trainer ⦁ Vorbereitung zum Modul ⦁ Video Coach",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p><strong><u>Pre-Learning</u></strong></p><p>Jetzt sind Sie an der Reihe. Das Ziel ist es, einen Trailer für die Trainingssession zu drehen, die Sie im Face-to-Face Training moderieren werden. Sie werden ein circa 5-minütiges Video erstellen, in welchem Sie den anderen Lernern deutlich machen:</p><p>- Was ist das Lernziel meiner Sequenz?</p><p>- Welche Inhalte möchte ich vermitteln?</p><p>- Welche Methoden setze ich ein?</p><p>- Wie werden die anderen Lerner eingebunden?</p><p>- Diese Session ist „the one and only“ – versuchen Sie, bei den anderen Lernern die Neugierde</p><p>auf Ihre Lernsequenz zu wecken.</p><p>Bevor Sie das Video drehen – beachten Sie bitte die unten folgenden Beobachtungsschwerpunkte.</p>",
+	"objectives" : "<p>Der Lerner kann …</p><p>- den Video Coach (GTLS) bedienen und ein eigenes Video gemäß den Vorgaben hochladen.</p><p>- anhand des Trainer-Feedbacks seine eigenen Leistungen aus der Metaebene reflektieren.</p><p>- für seine Lernsequenz einen kurzen, aussagekräftigen Trailer erstellen.</p><p>- den Trailer bearbeiten und zum Einstellen in den Video Coach (GTLS) vorbereiten.</p><p>- den Trailer im Video Coach (GTLS) hochladen.</p>",
+	"guidelines" : "<p>Bitte beachten Sie die folgenden Beobachtungsschwerpunkte:</p><p><strong><u>Kameraposition</u></strong></p><p>- Trainer und Medien sichtbar (an &#34;goldenen Schnitt&#34; denken)</p><p>- &#34;Ordnung auf der Bühne&#34;: Trainerschreibtisch aufgeräumt und Medien vorbereitet</p><p>- Beleuchtung ausreichend und Tonaufnahme verständlich</p><p><strong><u>Wirkung des Trainers</u></strong></p><p>- Ansprache der Lerner</p><p>- Verbale Kommunikation des Trainers</p><p>- Nonverbale Kommunikation des Trainers</p><p>- Rhetorische Stilmittel bei der Erläuterung</p><p><strong><u>Lernerorientierung</u></strong></p><p>- Einbindung der Lerner in den Lernprozess</p><p>- Anmoderation von Gruppenarbeiten: Klarheit, Transparenz, Deutlichkeit</p><p><strong><u>Mediengestaltung</u></strong></p><p>- Gestaltung der Flipcharts (Regeln der Visualisierung)</p><p>- Gestaltung der virtuellen Medien (MURAL Board): Übersichtlichkeit, Regeln der Visualisierung</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/4/2022-08-04T07:19:48.136173_CFM08400.jpg",
+			"fileName" : "2022-08-04T07:19:48.135485_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-04T12:51:25.106+05:30"),
+	"modifiedTime" : ISODate("2022-08-04T12:52:22.378+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 86,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+{
+	"_id" : ObjectId("62ea62c288176c703eb996dd"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-DE00001669",
+	"name" : "GAM ⦁ Online Trainer ⦁ Online Präsentation und Grundlagen ⦁ Video Coach",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p>Transferaufgabe</p><p>Jetzt sind Sie an der Reihe. Das Ziel ist es, eine maximal 30-minütige Sequenz aus einem Training auszusuchen, didaktisch vorzubereiten und ein Video dieser Sequenz in den Video Coach zu laden.</p><p>Klären Sie - als Vorbereitung zur Transferaufgabe - folgende Fragen und Aspekte.</p><p>- Was ist das Lernziel der Sequenz?</p><p>- Welche Inhalte wollen Sie vermitteln?</p><p>- Welche Methode wählen Sie zur Vermittlung einer theoretischen Grundlage?</p><p>- Wo ist die Sequenz im Trainingsdiamant verortet?</p><p>- Was gibt es bei der Videoaufnahme zu beachten?</p><p>- Wie binden Sie die Lerner ein?</p><p>- Wie aktivieren Sie die Lerner innerhalb der Sequenz?</p><p>Bevor Sie das Video drehen:</p><p>Sehen Sie sich nochmals die Punkte an, die Sie bei der &#34;Inspirationssuche&#34; notiert haben.</p><p>Wie möchten Sie Ihr Video gestalten? Als Hilfestellung können Sie Ihre Ideen in einem groben</p><p>Drehbuch festhalten.</p>",
+	"objectives" : "<p>Der Lerner kann…</p><p>- den Video Coach nutzen.</p><p>- die Anwendungsmöglichkeiten für den Video Coach im GTLS nutzen.</p><p>- den Aufbau und die Navigationsstruktur des Video Coach für eigene Videos nutzen.</p><p>- die Einstellungen, die beim Upload von Content beachtet werden müssen, nutzen.</p><p>- die Kommunikations- und Bewertungsmöglichkeiten, die über den Video Coach zur Verfügung</p><p>stehen, zielgerichtet nutzen.</p><p>- Videos hochladen und passend beschriften.</p><p>- eine Trainingssequenz mit den besprochenen Medien konzipieren und vorbereiten.</p>",
+	"guidelines" : "<p>Bitte beachten Sie die folgenden Beobachtungsschwerpunkte:</p><p><strong><u>Kameraposition</u></strong></p><p>- Trainer und Medien sichtbar (an &#34;goldenen Schnitt&#34; denken)</p><p>- &#34;Ordnung auf der Bühne&#34;: Trainerschreibtisch aufgeräumt und Medien vorbereitet</p><p>- Beleuchtung ausreichend und Tonaufnahme verständlich</p><p>- Lerner müssen nicht zu sehen sein</p><p>- Bei der Durchführung eines VCs erfolgt die Aufnahme über die Funktion &#34;Session aufnehmen&#34;</p><p>im entsprechenden Tool</p><p><strong><u>Phasen des Trainingsdiamanten</u></strong></p><p>- Orientierungsphase</p><p>- Themeneinführung</p><p>- Trainerinput</p><p>- Wissensaneignung durch die Lerner in geeigneter Sozialform</p><p>- Wissensaneignung in geeigneter Sozialform</p><p>- Zusammenfassung durch den Trainer</p><p>- Wrap Up der Lernsequenz</p><p><strong><u>Wirkung des Trainers</u></strong></p><p>- Ansprache der Lerner</p><p>- Verbale Kommunikation des Trainers</p><p>- Nonverbale Kommunikation des Trainers</p><p>- Rhetorische Stilmittel bei der Erläuterung von Fachwissen</p><p><strong><u>Lernerorientierung</u></strong></p><p>- Einbindung der Lerner in den Lernprozess</p><p>- Anmoderation von Gruppenarbeiten: Klarheit, Transparenz, Deutlichkeit</p><p>- Regelmäßige Einbindung aller Lerner</p><p>- Durchführung eines Aktivierers</p><p>- Umgang mit kritischen Situationen (&#34;Umgang mit Einwänden der Lerner&#34;)</p><p><strong><u>Mediengestaltung</u></strong></p><p>- Gestaltung der Flipcharts (Regeln der Visualisierung)</p><p>- Gestaltung der virtuellen Medien (MURAL Board): Übersichtlichkeit, Regeln der Visualisierung</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/3/2022-08-03T11:47:47.294759_CFM08400.jpg",
+			"fileName" : "2022-08-03T11:47:47.293982_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-03T17:27:54.206+05:30"),
+	"modifiedTime" : ISODate("2022-08-03T20:46:58.364+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 85,
+	"sessionsCount" : 2,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62e8d56088176c703eb99653"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-DE00001734",
+	"name" : "GAM ⦁ Weiterbildung ⦁ Praxis Video Coach und Transferaufgabe ⦁ Video Coach",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p><strong>Transferaufgabe</strong></p><p><br></p><p>Jetzt sind Sie an der Reihe. Das Ziel ist es, eine maximal 30-minütige Sequenz vorzubereiten und –wie im Training besprochen – ein Video dieser Sequenz in den Video Coach zu laden.</p><p>Klären Sie - als Vorbereitung zur Transferaufgabe - folgende Fragen und Aspekte.</p><ul><li>Was ist das Lernziel der Sequenz?</li><li>Welche Inhalte wollen Sie vermitteln?</li><li>Welche Methode wählen Sie zur Vermittlung einer theoretischen Grundlage?</li><li>Wo ist die Sequenz im Trainingsdiamant verortet?</li><li>Was gibt es bei der Videoaufnahme zu beachten?</li><li>Wie binden Sie die Lerner ein?</li><li>Wie aktivieren Sie die Lerner innerhalb der Sequenz?</li></ul><p><br></p><p>Bevor Sie das Video drehen:</p><p>Sehen Sie sich nochmals die Punkte an, die Sie bei der \"Inspirationssuche\" notiert haben. Wie möchten Sie Ihr Video gestalten? Als Hilfestellung können Sie Ihre Ideen in einem groben</p><p>Drehbuch festhalten.</p>",
+	"objectives" : "<p><span style=\"background-color: rgb(55, 55, 55);\">Der Lerner kann…</span></p><ul><li><span style=\"background-color: rgb(55, 55, 55);\">praktische Erfahrungen mit dem Video Coach sammeln.</span></li><li><span style=\"background-color: rgb(55, 55, 55);\">die Transferaufgabe aus dem Praxis-Teil 1 übertragen.</span></li><li><span style=\"background-color: rgb(55, 55, 55);\">wiedergeben, worauf beim Dreh eines kurzen Videos zu achten ist.</span></li><li><span style=\"background-color: rgb(55, 55, 55);\">eine kurze Videosequenz im Video Coach hochladen.</span></li><li><span style=\"background-color: rgb(55, 55, 55);\">qualifiziertes Feedback zum bereitgestellten Videomaterial annehmen.</span></li></ul>",
+	"guidelines" : "<p>Bitte beachten Sie die folgenden Beobachtungsschwerpunkte:</p><p><br></p><p><strong>Kameraposition</strong></p><ul><li>Trainer und Medien sichtbar (an \"goldenen Schnitt\" denken)</li><li>\"Ordnung auf der Bühne\": Trainerschreibtisch aufgeräumt und Medien vorbereitet</li><li>Beleuchtung ausreichend und Tonaufnahme verständlich</li><li>Lerner müssen nicht zu sehen sein</li><li>Bei der Durchführung eines VCs erfolgt die Aufnahme über die Funktion \"Session aufnehmen\" im entsprechenden Tool</li></ul><p><br></p><p><strong>Phasen des Trainingsdiamanten</strong></p><ul><li>Orientierungsphase</li><li>Themeneinführung</li><li>Trainerinput</li><li>Wissensaneignung durch die Lerner in geeigneter Sozialform</li><li>Wissensaneignung in geeigneter Sozialform</li><li>Zusammenfassung durch den Trainer</li><li>Wrap Up der Lernsequenz</li></ul><p><br></p><p><strong>Wirkung des Trainers</strong></p><ul><li>Ansprache der Lerner</li><li>Verbale Kommunikation des Trainers</li><li>Nonverbale Kommunikation des Trainers</li><li>Rhetorische Stilmittel bei der Erläuterung von Fachwissen</li></ul><p><br></p><p><strong>Lernerorientierung</strong></p><ul><li>Einbindung der Lerner in den Lernprozess</li><li>Anmoderation von Gruppenarbeiten: Klarheit, Transparenz, Deutlichkeit</li><li>Regelmäßige Einbindung aller Lerner</li><li>Durchführung eines Aktivierers</li><li>Umgang mit kritischen Situationen (\"Umgang mit Einwänden der Lerner\")</li></ul><p><br></p><p><strong>Mediengestaltung</strong></p><ul><li>Gestaltung der Flipcharts (Regeln der Visualisierung)</li><li>Gestaltung der virtuellen Medien (MURAL Board): Übersichtlichkeit, Regeln der Visualisierung</li></ul>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/2/2022-08-02T07:36:31.896942_CFM08400.jpg",
+			"fileName" : "2022-08-02T07:36:31.896248_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-02T13:12:24.317+05:30"),
+	"modifiedTime" : ISODate("2022-08-30T12:49:29.416+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 84,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62e7bc5388176c703eb995d0"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-00001669",
+	"name" : "GAM ⦁ Online Trainer ⦁ Online Presentation and Basics ⦁ Video Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p><strong><u>Transfer task</u></strong></p><p>Now it&#39;s your turn. The objective is to select a max. 30-minute sequence from a training course, prepare it didactically and upload a video of this sequence to the video coach. Clarify the following questions and aspects – in preparation for the transfer exercise.</p><p>- What is the learning objective of the sequence?</p><p>- What content do you want to convey?</p><p>- Which method do you choose to convey a theoretical basis?</p><p>- Where is the sequence located in the training diamond?</p><p>- What must be observed when recording the video?</p><p>- How do you involve the learners?</p><p>- How do you activate the learners within the sequence?</p><p>Before you shoot the video:</p><p>Take another look at the points you noted in the &#34;inspiration search&#34;.</p><p>How would you like to design your video? As an aid, you can write down your ideas in a rough script.</p>",
+	"objectives" : "<p><strong>The learner is able to…</strong></p><p>- use the video coach.</p><p>- use the application options for the Video Coach in the GTLS.</p><p>- use the structure and navigation structure of the Video Coach for your own videos.</p><p>- use the settings that must be observed when uploading content.</p><p>- use the communication and assessment options available through the Video Coach in a targeted manner.</p><p>- upload videos and label them appropriately.</p><p>- conceive and prepare a training sequence with the media discussed.</p>",
+	"guidelines" : "<p>Please note the following focal observation points:</p><p><strong><u>Camera position</u></strong></p><p>- Trainer and media visible (think of &#34;golden section&#34;)</p><p>- &#34;Order on the stage&#34;: Trainer desk tided up and media prepared</p><p>- Illumination sufficient and sound recording comprehensible</p><p>- Learners do not have to be visible</p><p>- When performing a VC, recording takes place via the &#34;Record session&#34; function in the</p><p>corresponding tool</p><p><strong><u>Phases of the training diamond</u></strong></p><p>- Orientation phase</p><p>- Topic introduction</p><p>- Trainer input</p><p>- Appraisal of knowledge by the learners in a suitable social form</p><p>- Appraisal of knowledge in a suitable social form</p><p>- Summary by the trainer</p><p>- Wrap up the learning sequence</p><p><strong><u>Effects of the trainer</u></strong></p><p>- Addressing the learners</p><p>- Verbal communication of the trainer</p><p>- Non-verbal communication of the trainer</p><p>- Rhetorical means of style when explaining technical knowledge</p><p><strong><u>Learner orientation</u></strong></p><p>- Involvement of learners in the learning process</p><p>- Moderation of group work: clarity, transparency</p><p>- Regular involvement of all learners</p><p>- Execution of an activator</p><p>- Dealing with critical situations (&#34;Dealing with learners&#39; objections&#34;)</p><p><strong><u>Media design</u></strong></p><p>- Design of the flip charts (rules of visualization)</p><p>- Design of virtual media (MURAL Board): clarity, rules of visualization</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/AUGUST/1/2022-08-01T11:39:54.006818_CFM08400.jpg",
+			"fileName" : "2022-08-01T11:39:54.006058_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-08-01T17:13:15.668+05:30"),
+	"modifiedTime" : ISODate("2022-08-01T19:30:38.396+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 83,
+	"sessionsCount" : 3,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+{
+	"_id" : ObjectId("62e29b1788176c703eb9954d"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-00001652",
+	"name" : "GAM ⦁ Certified Trainer ⦁ Supervision Face-to-Face Trainer ⦁ Video Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Recording sequences of a face-to-face training session and uploading them to the Video Coach</p><p><strong>Task</strong></p><p>Now it's your turn. The goal is to record training sequences from your face-to-face training sessions. You will create a maximum one-hour video or several sequences totaling 1 hour. We want to see you in \"action.\" Remember the \"training diamond\" for guidance and use the training concept.</p><p>Please make the following clear to yourself and your mentor:</p><ul><li>What is the learning objective of my sequence?</li><li>What content do I want to convey?</li><li>What methods do I use?</li></ul>",
+	"objectives" : "<p><strong>The learner can…</strong></p><p>• perform and record a learning sequence Face-to-Face</p><p>• edit the learning sequence and prepare it for entry into GTLS.</p><p>• upload the learning sequence in the GTLS.</p><p>• receive feedback from the mentor and the training manager and derive their own development measures from it. </p><p>• derive measures for his individual development plan.</p>",
+	"guidelines" : "<p>Please note the following observation focus points:</p><p><strong>Camera position</strong></p><ul><li>Trainers and media visible (think of \"golden ratio\")</li><li>\"Order on the stage\": Trainer's desk tidied and media prepared</li><li>Lighting sufficient and sound recording understandable</li></ul><p><br></p><p><strong>Effect of the trainer</strong></p><ul><li>Addressing the learners</li><li>Verbal communication of the trainer</li><li>Nonverbal communication of the trainer</li><li>Rhetorical stylistic devices in explanation</li></ul><p><br></p><p><strong>Participant orientation</strong></p><ul><li>Involving learners in the learning process</li><li>Moderation of group work: Clarity, transparency, distinctness</li></ul><p><br></p><p><strong>Media design</strong></p><ul><li>Design of flipcharts (rules of visualization)</li><li>Design of virtual media (MURAL Board): Clarity, rules of visualization</li></ul>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/JULY/28/2022-07-28T14:17:49.895145_CFM08400.jpg",
+			"fileName" : "2022-07-28T14:17:49.894367_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-07-28T19:50:07.668+05:30"),
+	"modifiedTime" : ISODate("2022-08-30T14:01:29.082+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 82,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62e295d988176c703eb9954c"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-00001651",
+	"name" : "GAM ⦁ Certified Trainer ⦁ Supervision Online Trainer ⦁ Video Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p><strong>Task</strong></p><p>Now it's your turn. The goal is to record training sequences from your online training courses. You will create a maximum one-hour video or several sequences totaling 1 hour. We want to see you in \"action.\" Remember the \"training diamond\" for guidance and use the training concept.</p><p>Please make the following clear to yourself and your mentor:</p><ul><li>What is the learning objective of my sequence?</li><li>What content do I want to convey?</li><li>What methods do I use?</li></ul>",
+	"objectives" : "<p><strong>The learner can…</strong></p><p>• perform and record a digital/virtual learning sequence (virtual classroom, webinar, online moderation).</p><p>• edit the digital/virtual learning sequence and prepare it for entry into GTLS.</p><p>• upload the digital/virtual learning sequence in the GTLS.</p><p>• receive feedback from the mentor and the training manager and derive their own development measures from it.</p><p>• derive measures for an individual development plan.</p>",
+	"guidelines" : "<p>Please note the following observation focus points:</p><p><strong>Camera position</strong></p><ul><li>Trainers and media visible (think of \"golden ratio\")</li><li>\"Order on the stage\": Trainer's desk tidied and media prepared</li><li>Lighting sufficient and sound recording understandable</li></ul><p><br></p><p><strong>Effect of the trainer</strong></p><ul><li>Addressing the learners</li><li>Verbal communication of the trainer</li><li>Nonverbal communication of the trainer</li><li>Rhetorical stylistic devices in explanation</li></ul><p><br></p><p><strong>Participant orientation</strong></p><ul><li>Involving learners in the learning process</li><li>Moderation of group work: Clarity, transparency, distinctness</li></ul><p><br></p><p><strong>Media design</strong></p><ul><li>Design of flipcharts (rules of visualization)</li><li>Design of virtual media (MURAL Board): Clarity, rules of visualization</li></ul>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/JULY/28/2022-07-28T13:56:37.941950_CFM08400.jpg",
+			"fileName" : "2022-07-28T13:56:37.941204_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-07-28T19:27:45.517+05:30"),
+	"modifiedTime" : ISODate("2022-08-30T13:55:56.584+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 81,
+	"sessionsCount" : 0,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62e28aaf88176c703eb9954b"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-00001734",
+	"name" : "GAM ⦁ Further Education ⦁ Practice Video Coach and Transfer Task ⦁ Video Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Transfer task</p><p>Now it's your turn. The goal is to prepare a maximum 30-minute sequence and - as discussed in the</p><p>training - upload a video of this sequence to the Video Coach.</p><p>Clarify - in preparation for the transfer task - the following questions and aspects.</p><ul><li>What is the learning objective of the sequence?</li><li>What content do you want to convey?</li><li>What method do you choose to teach a theoretical foundation?</li><li>Where is the sequence located in the training diamond?</li><li>What is there to consider when recording the video?</li><li>How do you engage the learners?</li><li>How do you activate learners within the sequence?</li></ul><p>Before you shoot the video:</p><p>Look again at the points you noted during the \"inspiration search\".</p><p>How would you like your video to look? To help you, you can write down your ideas in a rough script.</p>",
+	"objectives" : "<p><strong>The learner can…</strong></p><p>• implement the theoretical content of the video coach.</p><p>• explain what to look for when shooting a short video.</p><p>• upload a short video sequence in the Video Coach.</p>",
+	"guidelines" : "<p>Please note the following observation focus points:</p><p><br></p><p><strong>Camera position</strong></p><ul><li>Trainers and media visible (think of \"golden ratio\")</li><li>\"Order on the stage\": Trainer's desk tidied and media prepared</li><li>Lighting sufficient and sound recording understandable</li><li>Learners do not have to be seen</li><li>When performing a VC, the recording is done via the \"Record Session\" function in the corresponding tool</li></ul><p><br></p><p><strong>Phase of the training diamond</strong></p><ul><li>Orientation phase</li><li>Topic introduction</li><li>Trainer input</li><li>Knowledge acquisition by the learners in an appropriate social form</li><li>Knowledge acquisition in a suitable social form</li><li>Summary by the trainer</li><li>Learning sequence wrap up</li></ul><p><br></p><p><strong>Effect of the trainer</strong></p><ul><li>Addressing the learners</li><li>Verbal communication of the trainer</li><li>Nonverbal communication of the trainer</li><li>Rhetorical stylistic devices in explanation of specialist knowledge</li></ul><p><br></p><p><strong>Learner orientation</strong></p><ul><li>Involving learners in the learning process</li><li>Moderation of group work: Clarity, transparency, distinctness</li><li>Regular involvement of all learners</li><li>Implementation of an activator</li><li>Dealing with critical situations (\"Dealing with learner objections\")</li></ul><p><br></p><p><strong>Media design</strong></p><ul><li>Design of flipcharts (rules of visualization)</li><li>Design of virtual media (MURAL Board): Clarity, rules of visualization</li></ul>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/JULY/28/2022-07-28T13:06:47.493918_CFM08400.jpg",
+			"fileName" : "2022-07-28T13:06:47.493100_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-07-28T18:40:07.046+05:30"),
+	"modifiedTime" : ISODate("2022-08-30T12:00:23.997+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 80,
+	"sessionsCount" : 13,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62e2883888176c703eb9954a"),
+	"createdUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"activityId" : "GAM-00001658",
+	"name" : "GAM ⦁ Face-to-Face Trainer ⦁ Preperation for Modul ⦁ Video Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Now it's your turn. The objective is to film a trailer for the training session that you will moderate in face-to-face training. You will create a video lasting about 5 minutes in which you make it clear to the other learners:</p><p>- What is the learning objective of my sequence?</p><p>- What content do I want to convey?</p><p>- Which methods do I use?</p><p>- How are the other learners involved?</p><p>- This session is \"the one and only\" – try to arouse the curiosity of the other learners about your learning sequence.</p><p>Before you shoot the video – please observe the following main observation topics.</p>",
+	"objectives" : "<p><strong>The learner can…</strong></p><p>• use Video Coach to upload your own video according to the specifications.</p><p>• reflect on their own achievements from the meta level on the basis of the trainer feedback</p><p>• create a short, meaningful trailer for their learning sequence.</p><p>• edit their trailer and have prepared it for inclusion in the Video Coach (GTLS).</p><p>• upload the trailer to the Video Coach (GTLS).</p>",
+	"guidelines" : "<p>Please note the following focal observation points:</p><p><br></p><p><strong><u>Camera position</u></strong></p><p>- Trainer and media visible (think of \"golden section\")</p><p>- \"Order on the stage\": Trainer desk tided up and media prepared</p><p>- Illumination sufficient and sound recording comprehensible</p><p><br></p><p><strong><u>Effects of the trainer</u></strong></p><p>- Addressing the learners</p><p>- Verbal communication of the trainer</p><p>- Non-verbal communication of the trainer</p><p>- Rhetorical style tools when explaining</p><p><br></p><p><strong><u>Learner orientation</u></strong></p><p>- Involvement of learners in the learning process</p><p>- Moderation of group work: clarity, transparency</p><p><br></p><p><strong><u>Media design</u></strong></p><p>- Design of the flip charts (rules of visualization)</p><p>- Design of virtual media (MURAL Board): clarity, rules of visualization</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/JULY/28/2022-07-28T12:58:47.561938_CFM08400.jpg",
+			"fileName" : "2022-07-28T12:58:47.561170_CFM08400.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-07-28T18:29:36.691+05:30"),
+	"modifiedTime" : ISODate("2022-08-01T19:19:35.191+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61f15722352d16231ec13b2f")),
+	"ltiFlag" : "2",
+	"gtId" : 79,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+
+{
+	"_id" : ObjectId("62c7be1988176c703eb98d3b"),
+	"createdUser" : DBRef("user", ObjectId("61b2d3ed3e3fab35cf66e1e0")),
+	"activityId" : "GAM-080720221047",
+	"name" : "Activity-VideoCoachActivity",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>fdaaaaaaaaaa</p>",
+	"objectives" : "<p>dyrrrrrrrrrr</p>",
+	"guidelines" : "<p>rrrrrrrrrrrrrrrrrrrr</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/JULY/8/2022-07-08T05:18:10.654357_file_example_MP4_480_1_5MG (1).mp4",
+			"fileName" : "2022-07-08T05:18:10.648943_file_example_MP4_480_1_5MG (1).mp4",
+			"fileType" : "mp4",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-07-08T10:48:17.031+05:30"),
+	"modifiedTime" : ISODate("2022-07-08T10:48:23.319+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61b2d3ed3e3fab35cf66e1e0")),
+	"ltiFlag" : "2",
+	"gtId" : 78,
+	"sessionsCount" : 1,
+	"sourceId" : "GTLS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+{
+	"_id" : ObjectId("62bc255888176c703eb98b53"),
+	"createdUser" : DBRef("user", ObjectId("62b544ba88176c703eb98ad5")),
+	"activityId" : "GAM-123321",
+	"name" : "Test Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Test</p>",
+	"objectives" : "<p>Test</p>",
+	"guidelines" : "<p>Test</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/JUNE/29/2022-06-29T10:11:33.461719_1.png",
+			"fileName" : "2022-06-29T10:11:33.458367_1.png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-06-29T15:41:36.752+05:30"),
+	"modifiedTime" : ISODate("2022-06-29T15:41:43.679+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("62b544ba88176c703eb98ad5")),
+	"ltiFlag" : "2",
+	"gtId" : 77,
+	"sessionsCount" : 0,
+	"sourceId" : "BMBS",
+	"_class" : "com.gtvc.application.entity.Activity"
+},
+{
+	"_id" : ObjectId("62a73b248dd377435184a6a3"),
+	"createdUser" : DBRef("user", ObjectId("61b31b4a44dff47d65f7fecc")),
+	"activityId" : "GAM-DE000005",
+	"name" : "GAM • Digitale Marktbearbeitung",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p>Bitte schau dich in deinem Showroom um, und entscheide dich für ein Fahrzeug das dich aktuell emotional fesselt! Wenn du im Home-Office bist, kannst du gerne deinen aktuellen Dienstwagen nehmen! Bitte erstelle ein Video (max. Länge ca. 1,5 Minuten) in dem du und deine Beziehung zu diesem Fahrzeug die Hauptrollen spielen. Vielen Dank!</p>",
+	"objectives" : "<p>Professionelle, individuelle Fahrzeugpräsentation</p>",
+	"guidelines" : "<p>Ladet eure Videos bitte hier im System hoch.</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/JUNE/13/2022-06-13T13:05:31.235632_glc_bild.jpg",
+			"fileName" : "2022-06-13T13:05:31.234978_glc_bild.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-06-13T18:57:00.557+05:30"),
+	"modifiedTime" : ISODate("2022-06-14T12:28:48.666+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("617bd6f6ac42ea1e109d2e62")),
+	"ltiFlag" : "2",
+	"gtId" : 72,
+	"sessionsCount" : 4,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+},
+
+{
+	"_id" : ObjectId("62900bb38dd377435184a549"),
+	"createdUser" : DBRef("user", ObjectId("6204be9389ee912b13aa6317")),
+	"activityId" : "GAM-KR000001",
+	"name" : "GAM • The Mercedes-Benz Way • Video Coach KR",
+	"language" : {
+		"languageId" : "62",
+		"name" : "Korean (KR)",
+		"code" : "ko-kr"
+	},
+	"status" : "Published",
+	"description" : "<p>고객 응대 직원을 위한 &#34;The Mercedes-Benz Way&#34; Video Coach:</p><ul><li>Video Coach를 통해 고객 응대 경험과 모범 사례를 &#34;The Mercedes-Benz Way&#34;에 공유하고자 합니다. </li><li>&#34;The Mercedes-Benz Way&#34; 고객 응대 원칙을 활용하여 롤플레이를 실시하고 촬영된 영상을 GTLS에 업로드하십시오.</li><li>동료의 영상을 확인하고 피드백을 제공하십시오.</li><li>트레이너와 동료의 피드백을 나의 업무에 적용하십시오.</li><li>Impulses 단계에서는 정기적으로 학습 담당자(Learning Coordinator)가 새로운 정보를 제공할 것입니다. 전달 받은 정보를 팀 내에서 공유하고 적용하십시오.</li></ul><p>&#34;The Mercedes-Benz Way&#34;에 적극적인 참여를 기대합니다!</p>",
+	"objectives" : "<ul><li>&#34;The Mercedes-Benz Way&#34;의 구체적인 행동을 일상 업무에 적용할 수 있습니다.</li><li>동료의 영상에서 &#34;The Mercedes-Benz Way&#34; 행동 요령을 관찰하고 개선점을 알 수 있습니다.</li><li>럭셔리 브랜드가 되기 위한 Mercedes-Benz전략의 일환으로 &#34;The Mercedes-Benz Way&#34;의 배경과 중요성을 확인할 수 있습니다.</li><li>Golden Rule, 고객 응대 원칙 및 행동 요령의 중요성을 확인할 수 있습니다.</li></ul>",
+	"guidelines" : "<p>구체적이며 유익한 피드백을 기대합니다!&nbsp;  </p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/MAY/26/2022-05-26T23:20:34.718060_2022-04-14T15_13_22.741346_Titelfolie.png",
+			"fileName" : "2022-05-26T23:20:34.710776_2022-04-14T15_13_22.741346_Titelfolie.png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-05-27T04:52:27.078+05:30"),
+	"modifiedTime" : ISODate("2022-06-10T04:54:35.946+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("6204be9389ee912b13aa6317")),
+	"ltiFlag" : "2",
+	"gtId" : 69,
+	"sessionsCount" : 11,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+},
+
+{
+	"_id" : ObjectId("628b4dab8dd377435184a534"),
+	"createdUser" : DBRef("user", ObjectId("619b5ea0f18eeb6af49434cf")),
+	"activityId" : "GAM-00001616",
+	"name" : "GAM • The Mercedes-Benz Way • Video Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>&#34;The Mercedes-Benz Way&#34; Video Coach for Customer Contact Staff:</p><ul><li>Share your experiences and best practice examples with &#34;The Mercedes-Benz Way&#34; from your daily customer life here.</li><li>Have yourself filmed during an example of luxury customer contact and upload the video to the platform here.</li><li>Benefit from the feedback of your trainer and your colleagues.</li><li>Give appreciative feedback and support your colleagues with it.</li><li>Receive new impulses and suggestions from your trainer here on a regular basis, which you can take over and try out in your everyday work.</li></ul><p>Be an active part of &#34;The Mercedes-Benz Way&#34; program!</p>",
+	"objectives" : "<p>You can...</p><ul><li>demonstrate concrete behaviors from \"The Mercedes-Benz Way\" in your everyday life.</li><li>observe and correct the behaviors demonstrated in \"The Mercedes-Benz Way\" program.</li></ul><p>&nbsp;</p><p>You know...</p><ul><li>&nbsp;the background and importance of \"The Mercedes-Benz Way\" as part of the Mercedes-Benz strategic concept in the luxury segment.</li></ul><p><br></p><p>The Golden Rules, guiding principles and behaviors that pay attention to them.</p>",
+	"guidelines" : "<p>Stay fair!</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/MAY/23/2022-05-23T09:00:49.593987_2022-04-14T15_13_22.741346_Titelfolie.png",
+			"fileName" : "2022-05-23T09:00:49.586883_2022-04-14T15_13_22.741346_Titelfolie.png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-05-23T14:32:35.565+05:30"),
+	"modifiedTime" : ISODate("2022-05-23T18:10:34.901+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("62382dc189ee912b13aa6475")),
+	"ltiFlag" : "2",
+	"gtId" : 67,
+	"sessionsCount" : 2,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+},
+
+{
+	"_id" : ObjectId("627bbe1cce3e261862e943e5"),
+	"createdUser" : DBRef("user", ObjectId("619b5ea0f18eeb6af49434cf")),
+	"activityId" : "GAM-DE000004",
+	"name" : "GAM • The Mercedes-Benz Way • Video Coach",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p>\"The Mercedes-Benz Way\" Video Coach für Kundenkontakt Personal:</p><ul><li> Teilen Sie hier Ihre Erfahrungen und Best-Practice Beispiele mit \"The Mercedes-Benz Way\" aus Ihrem Kundenalltag.</li><li> Lassen Sie sich bei einem Beispiel des luxuriösen Kundenkontaktes filmen und laden Sie das Video hier in die Plattform.</li><li> Profitieren Sie vom Feedback Ihres Trainers und Ihrer Kolleginnen und Kollegen.</li><li> Geben Sie wertschätzendes Feedback und unterstützen Sie damit Ihre Kolleginnen und Kollegen.</li><li> Erhalten Sie hier regelmäßig neue Impulse und Anregungen von Ihrem Trainer, welche Sie in Ihren Arbeitsalltag übernehmen und ausprobieren können.</li></ul><p>Seien Sie ein aktiver Teil des \"The Mercedes-Benz Way\" Programms!</p>",
+	"objectives" : "<p>Sie können...</p><ul><li> konkrete Verhaltensweisen aus \"The Mercedes-Benz Way\" in Ihrem Alltag demonstrieren.</li><li> die im Programm \"The Mercedes-Benz Way\" gezeigten Verhaltensweisen beobachten und korrigieren.</li></ul><p><br></p><p>Sie kennen...</p><ul><li> den Hintergrund und Wichtigkeit von \"The Mercedes-Benz Way\" als Bestandteil des Mercedes-Benz Strategiekonzepts im Luxussegment.</li><li> die Goldenen Regeln, Leitprinzipien und darauf einzahlende Verhaltensweisen.</li></ul>",
+	"guidelines" : "<p>-</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/MAY/11/2022-05-11T13:45:47.758279_2022-04-14T15_13_22.741346_Titelfolie.png",
+			"fileName" : "2022-05-11T13:45:47.752065_2022-04-14T15_13_22.741346_Titelfolie.png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-05-11T19:16:04.577+05:30"),
+	"modifiedTime" : ISODate("2022-05-11T20:11:46.897+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("619b5ea0f18eeb6af49434cf")),
+	"ltiFlag" : "2",
+	"gtId" : 63,
+	"sessionsCount" : 16,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+},
+
+{
+	"_id" : ObjectId("624174e583aff82b98865540"),
+	"createdUser" : DBRef("user", ObjectId("61b31b4a44dff47d65f7fecc")),
+	"activityId" : "GAM-DE000003",
+	"name" : "Mein Weg zur Führung - Meine Führungs-Story",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p><span style=\"color: black;\">Bitte bereite Deine Führungsstory vor:</span></p><p><span style=\"color: black;\">Wofür stehst Du?</span></p><p><span style=\"color: black;\">Was ist Dir wichtig?</span></p><p><span style=\"color: black;\">Warum sollten Mitarbeitende Deiner Führung folgen?</span></p><p><span style=\"color: black;\">Nenne Beispiele, erzähle eine Geschichte …</span></p><p><span style=\"color: black;\">Wie möchtest Du vorgehen? Wie willst Du Deine Führungsaufgabe anpacken?</span></p>",
+	"objectives" : "<p><span style=\"color:rgb( 91 , 155 , 213 )\">Wie ich führen werde</span></p>",
+	"guidelines" : "<p><span style=\"color:rgb( 91 , 155 , 213 )\">Wo komme ich her?</span></p><p><span style=\"color:rgb( 91 , 155 , 213 )\">Wo stehe ich gerade?</span></p><p><span style=\"color:rgb( 91 , 155 , 213 )\">Was möchte ich mit meinen Mitarbeitenden erreichen? </span></p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/MARCH/28/2022-03-28T08:37:47.105243_GT02064.jpg",
+			"fileName" : "2022-03-28T08:37:46.823774_GT02064.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-03-28T14:12:13.706+05:30"),
+	"modifiedTime" : ISODate("2022-03-28T14:15:06.023+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61b31b4a44dff47d65f7fecc")),
+	"ltiFlag" : "2",
+	"gtId" : 44,
+	"sessionsCount" : 4,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+},
+
+{
+	"_id" : ObjectId("62417034597f1f48702690c7"),
+	"createdUser" : DBRef("user", ObjectId("61b31b4a44dff47d65f7fecc")),
+	"activityId" : "GAM-DE000002",
+	"name" : "GAM • Verkaufen über Emotionen • Video Coach",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p><span style=\"color: rgb(230, 230, 230);\">Verkaufen über Emotionen ist heute die Aufgabe. Suche dir spontan ein Produkt aus deiner Umgebung aus, dass jedoch nichts mit Mercedes-Benz zu tun hat. Formuliere warum gerade dieses Produkt ein Must-have darstellt. Nutze ggf. die Methode des Storytellings, um dein Gegenüber absolut von dem Produkt zu überzeugen. </span></p><p><span style=\"color: rgb(230, 230, 230);\">Drehe hierzu ein max. 1-minütiges Video, indem du das Produkt präsentierst und dein Gegenüber mit Hilfe deiner Emotionen von dem Produkt begeisterst. Berücksichtige dabei die Grundsätze, wie du als Person wirkungsvoll präsentieren kannst. Viel Spaß!</span></p>",
+	"objectives" : "<p>Erste Erfahrungen mit dem Videocoach </p>",
+	"guidelines" : "<p>Ladet euer Video im Videocoach hoch. </p><p>Seht euch mindestens das Video euer*s Übungspartnerin*s an und gebt Feedback. </p><p>Beachtet dabei die Feedback-Regeln!</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/JUNE/9/2022-06-09T09:06:23.067999_zitrone.png",
+			"fileName" : "2022-06-09T09:06:23.067322_zitrone.png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-03-28T13:52:12.375+05:30"),
+	"modifiedTime" : ISODate("2022-06-13T12:26:17.859+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("619b5ea0f18eeb6af49434cf")),
+	"ltiFlag" : "2",
+	"gtId" : 43,
+	"sessionsCount" : 4,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+},
+
+{
+	"_id" : ObjectId("6229f2b189ee912b13aa6379"),
+	"createdUser" : DBRef("user", ObjectId("619b5ea0f18eeb6af49434cf")),
+	"activityId" : "GAM-SE000001",
+	"name" : "Video Coach - Get Together",
+	"language" : {
+		"languageId" : "113",
+		"name" : "Swedish",
+		"code" : "sv-se"
+	},
+	"status" : "Published",
+	"description" : "<p>Make a video about 3 fun Facts about yourself</p>",
+	"objectives" : "<p>Get to know each other</p>",
+	"guidelines" : "<p>Maximum of 1 Minute</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/MARCH/10/2022-03-10T12:43:17.610901_Virtueller Hintergrund TTT CCT Nov 2021.png",
+			"fileName" : "2022-03-10T12:43:17.607507_Virtueller Hintergrund TTT CCT Nov 2021.png",
+			"fileType" : "png",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-03-10T18:14:33.336+05:30"),
+	"modifiedTime" : ISODate("2022-03-10T18:14:42.930+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("619b5ea0f18eeb6af49434cf")),
+	"ltiFlag" : "2",
+	"gtId" : 40,
+	"sessionsCount" : 1,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+},
+
+{
+	"_id" : ObjectId("6229c5b789ee912b13aa6370"),
+	"createdUser" : DBRef("user", ObjectId("6228d25e89ee912b13aa636d")),
+	"activityId" : "GAM-IT000005",
+	"name" : "Video Coach - Il nuovo Mercedes-Benz Citan",
+	"language" : {
+		"languageId" : "52",
+		"name" : "Italian",
+		"code" : "it-it"
+	},
+	"status" : "Published",
+	"description" : "<p>Nuovo Mercedes-Benz Citan. Feels GIANT!</p>",
+	"objectives" : "<p>Scopriamo insieme le caratteristiche del nuovo small Van Mercedes-Benz!</p>",
+	"guidelines" : "<p>Osserva il video e svolgi in gruppo l&#39;esercitazione proposta dal trainer!</p><p>Tempo totale necessario: 75 minuti</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/MARCH/10/2022-03-10T09:30:29.761316_IMG_4278 - Copia.mp4",
+			"fileName" : "2022-03-10T09:30:29.603636_IMG_4278 - Copia.mp4",
+			"fileType" : "mp4",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-03-10T15:02:39.171+05:30"),
+	"modifiedTime" : ISODate("2022-03-10T15:03:21.622+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("6228d25e89ee912b13aa636d")),
+	"ltiFlag" : "2",
+	"gtId" : 39,
+	"sessionsCount" : 3,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+},
+{
+	"_id" : ObjectId("62028d3d89ee912b13aa62ef"),
+	"createdUser" : DBRef("user", ObjectId("619b5ea0f18eeb6af49434cf")),
+	"activityId" : "GAM-DD000005",
+	"name" : "GAM • Market Deep Dive - Video Coach",
+	"language" : {
+		"languageId" : "27",
+		"name" : "English (GB)",
+		"code" : "en-gb"
+	},
+	"status" : "Published",
+	"description" : "<p>Sell the Video Coach to your colleague &#34;Peter&#34; in less than 1 minute.</p>",
+	"objectives" : "<p>Learn to sell the best Social Learning Tool from Global Training.</p>",
+	"guidelines" : "<p>Stay fair and have fun</p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/FEBRUARY/8/2022-02-08T15:32:46.189038_WIN_20220208_14_40_41_Pro.mp4",
+			"fileName" : "2022-02-08T15:32:46.022420_WIN_20220208_14_40_41_Pro.mp4",
+			"fileType" : "mp4",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-02-08T21:03:17.944+05:30"),
+	"modifiedTime" : ISODate("2022-02-08T21:03:53.602+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("619b5ea0f18eeb6af49434cf")),
+	"ltiFlag" : "2",
+	"gtId" : 31,
+	"sessionsCount" : 5,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+},
+
+{
+	"_id" : ObjectId("61e52c0507cc1a6be1eca211"),
+	"createdUser" : DBRef("user", ObjectId("61b31b4a44dff47d65f7fecc")),
+	"activityId" : "GAM-DE-00001",
+	"name" : "Video zu „Kaufmotiv und Storytelling“",
+	"language" : {
+		"languageId" : "23",
+		"name" : "German",
+		"code" : "de-de"
+	},
+	"status" : "Published",
+	"description" : "<p><span style=\"color: rgb(31, 78, 121);\">Suche dir eine Serien- oder Sonderausstattung sowie ein Kaufmotiv aus. Formuliere dazu eine Merkmal-Vorteil-Nutzenargumentation. Außerdem möchtest du der Kundin/dem Kunden eine Story dazu erzählen, so dass diese*r absolut von der Ausstattung überzeugt ist und diese haben möchte. Drehe ein max. 2-minütiges Video, in dem du als Verkäufer*in dem Kunden/der Kundin die MVN-Argumentation und die Story präsentierst. Berücksichtige dabei die Grundsätze, wie du als Person wirkungsvoll präsentieren kannst. Viel Spaß!</span></p>",
+	"objectives" : "<p><span style=\"color: rgb(68, 84, 106);\">Kaufmotivgerechtes Argumentieren und Storytelling professionalisieren</span></p>",
+	"guidelines" : "<p><span style=\"color: rgb(31, 78, 121);\">Ladet euer Video bis 18:00 Uhr hoch. Schaut euch heute oder morgen vor Seminarbeginn die Videos eurer Kolleg*innen an und kommentiert diese. Beachtet dabei die Feedback-Regeln.</span></p>",
+	"documents" : [
+		{
+			"uploadedFileName" : "https://d29fpj4k8hqlpa.cloudfront.net/prod/2022/JANUARY/17/2022-01-17T08:41:29.936085_Videocoach.jpg",
+			"fileName" : "2022-01-17T08:41:29.935637_Videocoach.jpg",
+			"fileType" : "jpg",
+			"message" : "Material uploaded successfully"
+		}
+	],
+	"createdTime" : ISODate("2022-01-17T14:12:45.729+05:30"),
+	"modifiedTime" : ISODate("2022-01-17T14:12:50.072+05:30"),
+	"modifiedByUser" : DBRef("user", ObjectId("61b31b4a44dff47d65f7fecc")),
+	"ltiFlag" : "2",
+	"gtId" : 25,
+	"sessionsCount" : 4,
+	"_class" : "com.gtvc.application.entity.Activity",
+	"sourceId" : "GTLS"
+}
+
+]}
