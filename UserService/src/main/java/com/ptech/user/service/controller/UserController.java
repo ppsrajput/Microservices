@@ -33,7 +33,7 @@ public class UserController {
 		this.userService.deleteUser(id);
 	}
 	@GetMapping("/user/{id}")
-	public ResponseEntity<User> getUser(@PathVariable Integer id){
+	public ResponseEntity<User> getUserById(@PathVariable Integer id){
 		return new ResponseEntity<User>(this.userService.getUser(id),HttpStatus.OK);
 	}
 }
