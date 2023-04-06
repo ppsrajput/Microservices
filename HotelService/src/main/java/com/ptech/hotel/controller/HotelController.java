@@ -26,11 +26,11 @@ public class HotelController {
     @GetMapping("/hotel/{id}")
     public ResponseEntity<Hotel> get(@PathVariable String id){
         Hotel hotel = this.service.getHotelById(id);
-        return new ResponseEntity<>(hotel,HttpStatus.OK);
+        return  ResponseEntity.ok(hotel);
     }
     @GetMapping("/hotels")
     public ResponseEntity<List<Hotel>> getAll(){
         List<Hotel> hotels = this.service.getAllHotels();
-        return new ResponseEntity<>(hotels,HttpStatus.OK);
+        return ResponseEntity.status(HttpStatus.OK).body(hotels);
     }
 }
