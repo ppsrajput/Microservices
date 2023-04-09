@@ -2,7 +2,9 @@ package com.ptech.hotel.service.impl;
 
 import com.ptech.hotel.entities.Hotel;
 import com.ptech.hotel.repositories.HotelRepository;
+import com.ptech.hotel.request.dto.HotelRequestDTO;
 import com.ptech.hotel.service.HotelService;
+import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -18,8 +20,12 @@ public class HotelServiceImpl implements HotelService {
     @Autowired
     private HotelRepository repository;
 
+    @Autowired
+    private ModelMapper modelMapper;
+
     @Override
-    public Hotel create(Hotel hotel) {
+    public Hotel create(HotelRequestDTO hotelRequestDTO) {
+        Hotel hotel = this.modelMapper.map(hotelRequestDTO, Hotel.class);
         return this.repository.save(hotel);
     }
 

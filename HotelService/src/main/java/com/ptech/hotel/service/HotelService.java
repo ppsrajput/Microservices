@@ -1,6 +1,7 @@
 package com.ptech.hotel.service;
 
 import com.ptech.hotel.entities.Hotel;
+import com.ptech.hotel.request.dto.HotelRequestDTO;
 
 import java.util.List;
 
@@ -11,7 +12,7 @@ import java.util.List;
  */
 public interface HotelService {
 
-    Hotel create(Hotel hotel);
+    Hotel create(HotelRequestDTO hotel);
     List<Hotel> getAllHotels();
     Hotel getHotelById(String id);
 }

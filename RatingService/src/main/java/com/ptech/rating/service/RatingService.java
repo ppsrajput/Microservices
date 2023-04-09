@@ -1,6 +1,7 @@
 package com.ptech.rating.service;
 
 import com.ptech.rating.entities.Rating;
+import com.ptech.rating.request.dto.RatingRequestDTO;
 
 import java.util.List;
 
@@ -11,11 +12,12 @@ import java.util.List;
  */
 public interface RatingService {
 
-    Rating create(Rating rating);
+    Rating create(RatingRequestDTO ratingRequestDTO);
     List<Rating> getAllRatings();
 
     List<Rating> getRatingByUserId(Integer id);
     List<Rating> getRatingByHotelId(String id);
 
 
+    void deleteRating(Integer id);
 }
