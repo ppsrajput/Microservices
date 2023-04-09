@@ -22,7 +22,7 @@ public class Rating {
  @Id
  @GeneratedValue(strategy = GenerationType.AUTO)
  private Integer id;
- private String userId;
+ private Integer userId;
  private String hotelId;
  private int rating;
  private String feedback;
