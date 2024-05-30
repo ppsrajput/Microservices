@@ -1,13 +1,23 @@
-package com.project.limits_service;
+package com.project.limits_service.controller;
+/*
+ * @created 30/05/2024 - 22:53
+ * @project limits-service
+ * @author prashantrajput01
+ */
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import com.project.limits_service.config.Configuration;
+import com.project.limits_service.dto.response.Limits;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
 
-@SpringBootApplication
-public class LimitsServiceApplication {
+@RestController
+public class LimitsController {
 
-	public static void main(String[] args) {
-		SpringApplication.run(LimitsServiceApplication.class, args);
-	}
-
+    @Autowired
+    private Configuration configuration;
+    @GetMapping("/limits")
+    public Limits limits(){
+        return new Limits(configuration.getMinimum(),configuration.getMaximum());
+    }
 }
