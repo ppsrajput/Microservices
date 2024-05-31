@@ -25,7 +25,7 @@ public class CurrencyExchangeController {
     public ExchangeValue exchangeValue(@PathVariable String from,@PathVariable String to){
         String instance = environment.getProperty("server.port");
         ExchangeValue ex = repository.findByFromAndTo(from, to);
-        ex.setEnvironment("Instance - "+ instance);
+        ex.setEnvironment(environment.getProperty("spring.application.name")+" Instance - "+ instance);
         return ex;
 
 
